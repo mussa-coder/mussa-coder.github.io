@@ -1,0 +1,62 @@
+/* Complementos para as seções acadêmicas do portfólio. */
+.site-header nav { gap: 24px; }
+
+.learning { background: #ece5d2; }
+
+.learning-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 18px;
+  margin-top: 52px;
+}
+
+.learning-grid article {
+  min-height: 300px;
+  padding: 32px;
+  border: 1px solid var(--line);
+  background: rgba(255, 250, 240, .55);
+}
+
+.learning-grid article > span {
+  color: var(--deep);
+  font: 500 11px "DM Mono", monospace;
+  letter-spacing: .12em;
+}
+
+.learning-grid ul {
+  list-style: none;
+  margin: 32px 0 0;
+  padding: 0;
+}
+
+.learning-grid li {
+  padding: 12px 0;
+  border-bottom: 1px solid var(--line);
+  font-weight: 600;
+}
+
+.learning-grid h3 { margin: 60px 0 14px; font-size: 28px; }
+.learning-grid p { max-width: 430px; color: var(--muted); line-height: 1.7; }
+
+.cards.single { grid-template-columns: minmax(0, 780px); }
+.card ul { flex-wrap: wrap; }
+
+.project-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 24px;
+}
+
+.project-actions a {
+  padding: 11px 14px;
+  background: var(--navy);
+  color: white;
+  font: 500 12px "DM Mono", monospace;
+}
+
+.project-actions a:hover { text-decoration: underline; }
+
+@media (max-width: 900px) {
+  .learning-grid, .cards.single { grid-template-columns: 1fr; }
+}
