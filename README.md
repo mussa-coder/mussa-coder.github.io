@@ -1,35 +1,51 @@
-# Olá, eu sou Mussa! 👋
+# Portfólio de Murylo Silva de Oliveira
 
-Bem-vindo ao meu portfólio. Sou estudante da Cruzeiro do Sul Virtual e estou construindo minha jornada em design e tecnologia por meio de projetos práticos.
+Portfólio pessoal criado para apresentar minha formação, meus estudos, meus projetos e meus contatos.
 
-## Sobre mim
+Sou estudante do curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul Virtual. Tenho interesse em desenvolvimento web e experiências digitais e estou construindo minha trajetória por meio de estudos e projetos publicados.
 
-Tenho interesse em design profissional, criação para web e experiências digitais. Meu objetivo é transformar o que aprendo em projetos simples, úteis e bem apresentados, evoluindo um passo de cada vez.
+## Objetivo
 
-## Projeto
+Reunir em um único site minha apresentação profissional, minha formação, os conhecimentos que estou praticando e os projetos que registram minha evolução na área de tecnologia.
 
-- **[Portfólio pessoal](https://mussa-coder.github.io)** — desenvolvi uma página responsiva para apresentar minha trajetória, meus estudos e meus contatos. O projeto utiliza HTML, CSS, Git e GitHub Pages.
-
-  - [Ver o código no GitHub](https://github.com/mussa-coder/mussa-coder.github.io)
-
-## Habilidades em aprendizado
+## Conhecimentos em prática
 
 - HTML e CSS;
-- Markdown;
 - Git e GitHub;
-- GitHub Pages;
-- fundamentos de design de interfaces.
+- Visual Studio Code;
+- publicação de projetos na Vercel;
+- uso de inteligência artificial generativa como apoio ao desenvolvimento.
+
+## Tecnologias utilizadas neste projeto
+
+- HTML5 para estruturar o conteúdo;
+- CSS3 para definir a apresentação visual;
+- Git para acompanhar as alterações;
+- GitHub para armazenar e disponibilizar o código;
+- Visual Studio Code como ambiente de edição.
+
+## Projetos
+
+- **[Portfólio pessoal](https://mussa-coder.github.io)** — site criado para apresentar minha formação, meus estudos, meus projetos e meus contatos.
+- **[LifeXP](https://project-ozbxc.vercel.app)** — projeto web publicado na Vercel como parte do meu aprendizado prático.
+
+Código do LifeXP: [github.com/mussa-coder/lifexp-site](https://github.com/mussa-coder/lifexp-site)
+
+## Aprendizados
+
+Durante o desenvolvimento do portfólio, pratiquei a organização de conteúdo em seções, o uso de HTML e CSS, o acompanhamento de alterações com Git e a publicação de código no GitHub. Também utilizei inteligência artificial generativa como apoio para esclarecer dúvidas, revisar partes do projeto e compreender melhor as soluções aplicadas.
 
 ## Formação
 
-- **Cruzeiro do Sul Virtual** — graduação EAD em andamento;
-- estudos atuais em Design Profissional.
+**Cruzeiro do Sul Virtual** — Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas, na modalidade EAD, com conclusão prevista para agosto de 2028.
 
 ## Contato
 
 - E-mail: [murylosilvatk@gmail.com](mailto:murylosilvatk@gmail.com)
 - GitHub: [github.com/mussa-coder](https://github.com/mussa-coder)
+- LinkedIn: [Murylo Silva de Oliveira](https://www.linkedin.com/in/murylo-silva-de-oliveira-3911b9370/)
 
 ---
 
 Este portfólio acompanha meu processo de aprendizado e será atualizado conforme novos projetos forem concluídos.
+
