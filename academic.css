@@ -1,4 +1,4 @@
-/* Complementos para as seções acadêmicas do portfólio. */
+/* Complementos para as seções acadêmicas e de projetos do portfólio. */
 .site-header nav { gap: 24px; }
 
 .learning { background: #ece5d2; }
@@ -38,7 +38,7 @@
 .learning-grid h3 { margin: 60px 0 14px; font-size: 28px; }
 .learning-grid p { max-width: 430px; color: var(--muted); line-height: 1.7; }
 
-.cards.single { grid-template-columns: minmax(0, 780px); }
+.cards.portfolio-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
 .card ul { flex-wrap: wrap; }
 
 .project-actions {
@@ -58,5 +58,6 @@
 .project-actions a:hover { text-decoration: underline; }
 
 @media (max-width: 900px) {
-  .learning-grid, .cards.single { grid-template-columns: 1fr; }
+  .learning-grid, .cards.portfolio-grid { grid-template-columns: 1fr; }
 }
+
